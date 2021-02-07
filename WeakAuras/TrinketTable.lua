@@ -54,5 +54,10 @@ WA_Proc_Item_Table = {
         procName = 'Forge Ember',
         stackable = false,
         showGlow = true    
-    }
+    },
+    [42987] = {
+        procName = 'Darkmoon Card: Greatness',
+        stackable = false,
+        showGlow = true
+    },
 }
