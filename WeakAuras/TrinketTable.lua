@@ -31,7 +31,7 @@ WA_Proc_Item_Table = {
     },
     [40432] = {
         procName = 'Illustration of the Dragon Soul',
-        stackable = true
+        stackable = true,
     },
     [50353] = {
         procName = 'Surging Power',
@@ -48,16 +48,30 @@ WA_Proc_Item_Table = {
     [40682] = {
         procName = 'Now is the time!',
         stackable = false,
-        showGlow = true        
+        showGlow = true,
     },
     [37660] = {
         procName = 'Forge Ember',
         stackable = false,
-        showGlow = true    
+        showGlow = true,
     },
     [42987] = {
         procName = 'Darkmoon Card: Greatness',
         stackable = false,
-        showGlow = true
+        showGlow = true,
+    },
+    [37657] = {
+        procName = 'Spark of Life',
+        stackable = false,
+        showGlow = true,
+    },
+    [50342] = {
+        procName = 'Icy Rage',
+        stackable = false,
+        showGlow = true,
+    },
+    [50355] = {
+        procName = 'Rage of the Fallen',
+        stackable = true,
     },
 }
